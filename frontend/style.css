@@ -1,0 +1,49 @@
+*{
+    background: color #bcaa99;;
+}
+h1{
+ color:#8e5572 ;
+ text-decoration-line: underline;
+ font-style: oblique;
+ font-weight: 800;
+ text-align: center;
+}
+h2{
+    color:#8a2c5d;
+ font-style: oblique;
+ font-weight: 550;
+ text-align: center;
+}
+h3{
+    color:#88665d;
+ text-decoration-line:inline;
+ font-style: oblique;
+ font-weight: 400;
+ text-align: center;
+}
+p{
+    color: rgb(75, 34, 109);
+    font-style: italic;
+    font-weight: 300;
+    text-align: left;
+}
+pre{
+    color: rgb(75, 34, 109);
+    font-style: italic;
+    font-weight: 300;
+    text-align: left;
+}
+div{
+    color:#8e5572;
+    font-style: inherit;
+    text-align: center;
+    text-decoration: #9b2b65;
+    font-weight: 400;
+}
+label{
+    color: #722b9b;
+    text-decoration: none;
+    font-style: oblique;
+    font-weight: 600;
+
+}
