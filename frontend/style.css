@@ -47,3 +47,12 @@ label{
     font-weight: 600;
 
 }
+div {
+    border-radius: 10px;
+    border-color: black;
+    border-style: solid;
+    color: #8e5572;
+    margin: 10px;
+    align-content: center;
+    
+}
